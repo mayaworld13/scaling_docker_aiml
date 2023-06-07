@@ -20,4 +20,4 @@ Docker (for containerization)
 This project is inspired by the concept of gesture-based control and aims to simplify the process of scaling Docker instances. We would like to thank the open-source community for their valuable contributions.
 
 # Contact
-For any questions or inquiries, please contact project maintainer Mayank Sharma at  mayank07082001@gmailcom
+For any questions or inquiries, please contact project maintainer Mayank Sharma at  mayank07082001@gmail.com
